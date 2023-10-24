@@ -133,8 +133,7 @@ struct parentCounterApp: View {
     }
 }
 
-#Preview {
-    parentCounterApp()
-}
-
+//#Preview {
+//    parentCounterApp()
+//}
 

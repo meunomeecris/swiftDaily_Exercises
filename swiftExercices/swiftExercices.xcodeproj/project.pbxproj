@@ -15,7 +15,7 @@
 		8AAB3DA92AD7F9FC00E3641E /* swiftExercicesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAB3DA82AD7F9FC00E3641E /* swiftExercicesTests.swift */; };
 		8AAB3DB32AD7F9FC00E3641E /* swiftExercicesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAB3DB22AD7F9FC00E3641E /* swiftExercicesUITests.swift */; };
 		8AAB3DB52AD7F9FC00E3641E /* swiftExercicesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAB3DB42AD7F9FC00E3641E /* swiftExercicesUITestsLaunchTests.swift */; };
-		8AAB3DC22AD7FD7F00E3641E /* toggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAB3DC12AD7FD7F00E3641E /* toggleView.swift */; };
+		8AAB3DC22AD7FD7F00E3641E /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAB3DC12AD7FD7F00E3641E /* DataView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +47,7 @@
 		8AAB3DAE2AD7F9FC00E3641E /* swiftExercicesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftExercicesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AAB3DB22AD7F9FC00E3641E /* swiftExercicesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftExercicesUITests.swift; sourceTree = "<group>"; };
 		8AAB3DB42AD7F9FC00E3641E /* swiftExercicesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftExercicesUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		8AAB3DC12AD7FD7F00E3641E /* toggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toggleView.swift; sourceTree = "<group>"; };
+		8AAB3DC12AD7FD7F00E3641E /* DataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 			children = (
 				8AAB3D952AD7F9FB00E3641E /* swiftExercicesApp.swift */,
 				8AAB3D972AD7F9FB00E3641E /* ContentView.swift */,
-				8AAB3DC12AD7FD7F00E3641E /* toggleView.swift */,
+				8AAB3DC12AD7FD7F00E3641E /* DataView.swift */,
 				8AAB3D992AD7F9FB00E3641E /* Item.swift */,
 				8AAB3D9B2AD7F9FC00E3641E /* Assets.xcassets */,
 				8AAB3D9D2AD7F9FC00E3641E /* Preview Content */,
@@ -263,7 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AAB3DC22AD7FD7F00E3641E /* toggleView.swift in Sources */,
+				8AAB3DC22AD7FD7F00E3641E /* DataView.swift in Sources */,
 				8AAB3D982AD7F9FB00E3641E /* ContentView.swift in Sources */,
 				8AAB3D9A2AD7F9FB00E3641E /* Item.swift in Sources */,
 				8AAB3D962AD7F9FB00E3641E /* swiftExercicesApp.swift in Sources */,
